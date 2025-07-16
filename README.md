@@ -1,6 +1,6 @@
 # TaxiDay Mobile 🚖
 
-Una aplicación móvil desarrollada con React Native y Expo para la gestión de carreras de taxi y control de jornadas laborales.
+Una aplicación móvil desarrollada con React Native y Expo para la gestión de carreras de taxi y control de jornadas laborales. Esta es la versión móvil de la aplicación web TaxiDay, creada como una demo para mostrar las funcionalidades principales en dispositivos móviles.
 
 ## 📱 Características
 
@@ -146,19 +146,6 @@ La aplicación utiliza SQLite para almacenamiento local, permitiendo:
 - Configuraciones de usuario
 - Historial de actividades
 
-## 📧 Contacto y Soporte
-
-Para soporte técnico o consultas:
-- **Email**: soporte@taxiday.com
-
-## 👨‍💻 Desarrollador
-
-Desarrollado por **TaxiDay Team**
-
-## 📄 Licencia
-
-Este proyecto es privado y está protegido por derechos de autor.
-
 ---
 
-⭐ **TaxiDay Mobile** - Gestión profesional para taxistas modernos
+⭐ **TaxiDay Mobile** - Versión móvil demo de la aplicación web
